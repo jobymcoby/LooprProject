@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Loopr_venv/
 
 # Spyder project settings
 .spyderproject
@@ -160,4 +161,4 @@ cython_debug/
 #.idea/
 
 #data folder
-archive/ 
+archive/
